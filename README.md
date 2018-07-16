@@ -2,9 +2,10 @@
 
 # Exploring YOLO. 
 This is of course NOT my creation. 
-I cloned this from darkflow and modified to my needs, then made it worked on my laptop.
+Taken from darkflow and modified to my needs, then made it worked on my laptop.
 Run 'python yolo_noel.py' in terminal.
 
+[![LIVE DEMO](https://github.com/noelcodes/YOLO/blob/master/ezgif.com-video-to-gif%20(2).gif)](https://youtu.be/pTLJpy_TIZo)
 
 ### YOLO (You Only Look Once)
 Reference : https://github.com/noelcodes/Capstone-Project/blob/master/yolo_noel/darkflow/yolo_noel.py

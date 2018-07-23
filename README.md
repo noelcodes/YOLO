@@ -1,9 +1,12 @@
 # [Home Page](https://noelcodes.github.io/)
 
 # Exploring YOLO. 
-This is of course NOT my creation. 
-Taken from darkflow and modified to my needs, then made it worked on my laptop.
-Run 'python yolo_noel.py' in terminal.
+Just wanted to check out what Yolo is, so followed tutorial by Mark Jay, and made it working on my laptop.
+
+Yolo paper: https://arxiv.org/abs/1506.02640 <br>
+Tutorial Video: https://www.youtube.com/playlist?list=PLX-LrBk6h3wSGvuTnxB2Kj358XfctL4BM <br>
+Darkflow Repo: https://github.com/thtrieu/darkflow <br>
+YOLO weights: https://pjreddie.com/darknet/yolo/ <br>
 
 [![LIVE DEMO](https://github.com/noelcodes/YOLO/blob/master/ezgif.com-video-to-gif%20(2).gif)](https://youtu.be/pTLJpy_TIZo)
 
